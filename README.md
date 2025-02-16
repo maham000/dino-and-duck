@@ -12,7 +12,7 @@ https://www.youtube.com/watch?v=Fyb7LlBphps
 assets used or modified:
 https://arks.itch.io/dino-characters
 https://sharkusmk.itch.io/duck-sprite
-https://brackeysgames.itch.io/brackeys-platformer-bundle +tutorial
+https://brackeysgames.itch.io/brackeys-platformer-bundle +tutorial for how to make a platform game
 
 Documentation consulted:
 https://docs.godotengine.org/en/stable/
